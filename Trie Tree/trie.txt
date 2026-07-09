@@ -1,0 +1,5 @@
+apple:kind of fruit
+ant:animal
+and:english word
+boy:pesar
+pen:ghalam
